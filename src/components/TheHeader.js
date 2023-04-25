@@ -40,7 +40,7 @@ export default class TheHeader extends Component {
         </ul>
       </nav>
       <a href="#/about" class="user">
-        <img src="../src/logo.png" alt="User">
+        <img src="https://tistory1.daumcdn.net/tistory/6081640/attach/3f3363ce559e4391a84004653065d4a4" alt="User">
       </a>
     `
   }
